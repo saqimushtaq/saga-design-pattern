@@ -1,4 +1,4 @@
-package com.saqib.common.service;
+package com.saqib.commonservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
